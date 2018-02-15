@@ -73,6 +73,7 @@ label[for="nav-trigger"] {
 .nav-trigger:checked~.site-wrap {
   left: 200px;
 }
+
 .img-1,
 .img-2,
 .img-3,
@@ -136,6 +137,8 @@ label[for="nav-trigger"] {
     float: left;
   }
 
+  .img-1,
+  .img-2,
   .img-3 {
     display: block;
   }
